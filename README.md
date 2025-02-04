@@ -1,0 +1,1 @@
+This repository contains an example of a common error in assembly programming: modifying the stack frame directly. The bug.asm file demonstrates the problematic code, which can lead to stack overflows or unexpected program behavior.  The bugSolution.asm file provides a corrected version that avoids directly modifying the stack frame.
